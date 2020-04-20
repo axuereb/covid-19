@@ -1,0 +1,1 @@
+smoothed = smoothed.iloc[idx_start[0]:]  # fixed this by adding index 0
